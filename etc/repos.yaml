@@ -393,3 +393,8 @@ obs_decam_data: https://github.com/lsst/obs_decam_data.git
 obs_subaru_data: https://github.com/lsst/obs_subaru_data.git
 obs_lsst_data: https://github.com/lsst/obs_lsst_data.git
 obs_test_data: https://github.com/lsst/obs_test_data.git
+testdata_ci_hsc:
+  url: https://github.com/lsst/testdata_ci_hsc.git
+  lfs: true
+ci_hsc_gen2: https://github.com/lsst/ci_hsc_gen2.git
+ci_hsc_gen3: https://github.com/lsst/ci_hsc_gen3.git
