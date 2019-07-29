@@ -53,7 +53,7 @@ throughputs: https://github.com/lsst/throughputs.git
 sims_utils: https://github.com/lsst/sims_utils.git
 sims_catalogs_measures: https://github.com/lsst/sims_catalogs_measures.git
 scisql: https://github.com/lsst/scisql.git
-pex_logging: https://github.com/lsst/pex_logging.git
+pex_logging: https://github.com/lsst-dm/legacy-pex_logging.git
 gcc: https://github.com/lsst/gcc.git
 luasocket: https://github.com/lsst/luasocket.git
 cfitsio: https://github.com/lsst/cfitsio.git
