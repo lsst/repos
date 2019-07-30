@@ -55,7 +55,7 @@ sims_catalogs_measures: https://github.com/lsst/sims_catalogs_measures.git
 scisql: https://github.com/lsst/scisql.git
 pex_logging: https://github.com/lsst-dm/legacy-pex_logging.git
 gcc: https://github.com/lsst/gcc.git
-luasocket: https://github.com/lsst/luasocket.git
+luasocket: https://github.com/lsst-dm/legacy-luasocket.git
 cfitsio: https://github.com/lsst/cfitsio.git
 lua: https://github.com/lsst/lua.git
 lsst_distrib: https://github.com/lsst/lsst_distrib.git
@@ -125,7 +125,7 @@ geom: https://github.com/lsst/geom.git
 sphgeom: https://github.com/lsst/sphgeom.git
 qserv: https://github.com/lsst/qserv.git
 palpy: https://github.com/lsst/palpy.git
-luaexpat: https://github.com/lsst/luaexpat.git
+luaexpat: https://github.com/lsst-dm/legacy-luaexpat.git
 cat: https://github.com/lsst/cat.git
 ip_isr: https://github.com/lsst/ip_isr.git
 pex_policy: https://github.com/lsst/pex_policy.git
@@ -155,7 +155,7 @@ pipe_supertask: https://github.com/lsst-dm/legacy-pipe_supertask.git
 sims_photUtils: https://github.com/lsst/sims_photUtils.git
 skypix: https://github.com/lsst-dm/legacy-skypix.git
 ctrl_execute: https://github.com/lsst/ctrl_execute.git
-luaxmlrpc: https://github.com/lsst/luaxmlrpc.git
+luaxmlrpc: https://github.com/lsst-dm/legacy-luaxmlrpc.git
 ap: https://github.com/lsst/ap.git
 sims_coordUtils: https://github.com/lsst/sims_coordUtils.git
 shapelet: https://github.com/lsst/shapelet.git
