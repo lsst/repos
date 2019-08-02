@@ -333,8 +333,8 @@ json_nlohmann: https://github.com/lsst/json_nlohmann.git
 display_ginga: https://github.com/lsst/display_ginga
 cbp: https://github.com/lsst/cbp
 meas_extensions_multiShapelet: https://github.com/lsst-dm/legacy-meas_extensions_multiShapelet.git
-testing_pipeQA: https://github.com/lsst/testing_pipeQA.git
-testing_displayQA: https://github.com/lsst/testing_displayQA.git
+testing_pipeQA: https://github.com/lsst-dm/legacy-testing_pipeQA.git
+testing_displayQA: https://github.com/lsst-dm/legacy-testing_displayQA.git
 lsst_dm_stack_demo: https://github.com/lsst/lsst_dm_stack_demo.git
 autograd: https://github.com/lsst/autograd.git
 proxmin:
