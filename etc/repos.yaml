@@ -277,7 +277,7 @@ deploy_testing_distrib: https://github.com/lsst/deploy_testing_distrib.git
 pybind11: https://github.com/lsst/pybind11.git
 meas_mosaic: https://github.com/lsst-dm/legacy-meas_mosaic.git
 lsst_py3: https://github.com/lsst-dm/lsst_py3.git
-obs_monocam: https://github.com/lsst/obs_monocam.git
+obs_monocam: https://github.com/lsst-dm/legacy-obs_monocam.git
 meas_extensions_convolved: https://github.com/lsst/meas_extensions_convolved.git
 ctrl_stats: https://github.com/lsst/ctrl_stats.git
 starlink_ast:
@@ -322,7 +322,7 @@ python_coverage: https://github.com/lsst/python_coverage.git
 pytest_cov: https://github.com/lsst/pytest_cov.git
 pep8_naming: https://github.com/lsst/pep8_naming.git
 cerberus: https://github.com/lsst/cerberus/
-obs_comCam: https://github.com/lsst/obs_comCam.git
+obs_comCam: https://github.com/lsst-dm/legacy-obs_comCam.git
 testdata_deblender: https://github.com/lsst/testdata_deblender.git
 synpipe: https://github.com/lsst/synpipe.git
 cp_pipe: https://github.com/lsst/cp_pipe.git
