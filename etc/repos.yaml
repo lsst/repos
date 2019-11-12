@@ -398,3 +398,4 @@ testdata_ci_hsc:
   lfs: true
 ci_hsc_gen2: https://github.com/lsst/ci_hsc_gen2.git
 ci_hsc_gen3: https://github.com/lsst/ci_hsc_gen3.git
+dax_apdb: https://github.com/lsst-dm/dax_apdb.git
