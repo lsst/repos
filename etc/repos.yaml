@@ -378,7 +378,6 @@ ap_verify_hits2015:
 ap_verify_ci_hits2015:
   url: https://github.com/lsst/ap_verify_ci_hits2015.git
   lfs: true
-dax_ppdb: https://github.com/lsst/dax_ppdb.git
 python_py: https://github.com/lsst/python_py.git
 obs_lsst: https://github.com/lsst/obs_lsst.git
 ctrl_mpexec: https://github.com/lsst/ctrl_mpexec.git
@@ -398,4 +397,5 @@ testdata_ci_hsc:
   lfs: true
 ci_hsc_gen2: https://github.com/lsst/ci_hsc_gen2.git
 ci_hsc_gen3: https://github.com/lsst/ci_hsc_gen3.git
-dax_apdb: https://github.com/lsst-dm/dax_apdb.git
+dax_apdb: https://github.com/lsst/dax_apdb.git
+dax_ppdb: https://github.com/lsst/dax_apdb.git
