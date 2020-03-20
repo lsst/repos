@@ -402,3 +402,4 @@ ci_hsc_gen3: https://github.com/lsst/ci_hsc_gen3.git
 dax_apdb: https://github.com/lsst/dax_apdb.git
 dax_ppdb: https://github.com/lsst/dax_apdb.git
 hiredis: https://github.com/lsst/hiredis
+redis_plus_plus: https://github.com/lsst/redis_plus_plus
