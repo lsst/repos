@@ -409,3 +409,6 @@ dax_ppdb: https://github.com/lsst/dax_apdb.git
 hiredis: https://github.com/lsst/hiredis
 redis_plus_plus: https://github.com/lsst/redis_plus_plus
 alert_packet: https://github.com/lsst/alert_packet.git
+kht:
+  url: https://github.com/lsst-dm/kht.git
+  ref: tickets/DM-24368
