@@ -131,6 +131,7 @@ qserv: https://github.com/lsst/qserv.git
 palpy: https://github.com/lsst/palpy.git
 luaexpat: https://github.com/lsst-dm/legacy-luaexpat.git
 cat: https://github.com/lsst/cat.git
+sdm_schemas: https://github.com/lsst-dm/sdm_schemas.git
 ip_isr: https://github.com/lsst/ip_isr.git
 pex_policy: https://github.com/lsst/pex_policy.git
 matplotlib: https://github.com/lsst/matplotlib.git
