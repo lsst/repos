@@ -178,7 +178,7 @@ daf_butlerUtils: https://github.com/lsst/obs_base.git
 obs_base: https://github.com/lsst/obs_base.git
 pyephem: https://github.com/lsst/pyephem.git
 ephem: https://github.com/lsst/ephem.git
-ctrl_provenance: https://github.com/lsst/ctrl_provenance.git
+ctrl_provenance: https://github.com/lsst-dm/legacy-ctrl_provenance.git
 testing_endtoend: https://github.com/lsst/testing_endtoend.git
 sqlite: https://github.com/lsst/sqlite.git
 antlr: https://github.com/lsst/antlr.git
