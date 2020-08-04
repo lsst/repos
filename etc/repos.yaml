@@ -413,3 +413,4 @@ alert_packet: https://github.com/lsst/alert_packet.git
 kht:
   url: https://github.com/lsst/kht.git
   ref: lsst-dev
+pipelines_check: https://github.com/lsst/pipelines_check
