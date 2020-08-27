@@ -414,3 +414,4 @@ kht:
   url: https://github.com/lsst/kht.git
   ref: lsst-dev
 pipelines_check: https://github.com/lsst/pipelines_check
+ctrl_bps: https://github.com/lsst/ctrl_bps.git
