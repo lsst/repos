@@ -415,3 +415,9 @@ kht:
   ref: lsst-dev
 pipelines_check: https://github.com/lsst/pipelines_check
 ctrl_bps: https://github.com/lsst/ctrl_bps.git
+ci_cpp_gen2: https://github.com/lsst/ci_cpp_gen2.git
+ci_cpp_gen3: https://github.com/lsst/ci_cpp_gen3.git
+ci_cpp: https://github.com/lsst/ci_cpp.git
+testdata_latiss_cpp:
+  url: https://github.com/lsst/testdata_latiss_cpp.git
+  lfs: true
