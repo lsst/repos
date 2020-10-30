@@ -3,7 +3,6 @@
 import sys
 import re
 import yaml
-import socket
 from urllib.parse import urlparse
 import urllib3
 import argparse
@@ -122,11 +121,6 @@ def validate_repo_url(repo):
         r = http.request('GET', repo)
         if r.status != 200:
             raise ValueError('invalid url: %d' % r.status)
-    elif url.scheme == 'git':
-        # don't want to attempt to clone the repo as it might be large, so
-        # we're just checking for a valid hostname.  A better check might
-        # be to attempt a raw tcp connection.
-        socket.gethostbyname(url.netloc)
     else:
         raise ValueError('unsupported scheme: %s' % url.scheme)
 
