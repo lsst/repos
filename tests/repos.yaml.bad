@@ -10,6 +10,8 @@ funky-name: https://github.com/lsst/lsstsw.git
 invalid_scheme: git@github.com:lsst/lsstsw.git
 ## https url is invalid
 invalid_https_url: https://example.dne
+## not a repo
+no_such_repo_url: https://github.com/lsst/not_a_real_repo_XX__never.git
 ## not in simpliest form; no 'option' keys
 no_option_keys:
   url: https://github.com/lsst/lsstsw.git

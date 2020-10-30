@@ -3,9 +3,8 @@
 import sys
 import re
 import yaml
-import socket
 from urllib.parse import urlparse
-from urllib.request import urlopen
+import urllib3
 import argparse
 from colors import red, green, yellow, blue, faint, bold
 
@@ -112,18 +111,16 @@ def validate_repo_dict(spec):
 
         raise ValueError(message)
 
+http = urllib3.PoolManager()
 
 def validate_repo_url(repo):
     validate_string(repo)
     url = urlparse(repo)
 
     if url.scheme == 'https':
-        urlopen(repo)
-    elif url.scheme == 'git':
-        # don't want to attempt to clone the repo as it might be large, so
-        # we're just checking for a valid hostname.  A better check might
-        # be to attempt a raw tcp connection.
-        socket.gethostbyname(url.netloc)
+        r = http.request('GET', repo)
+        if r.status != 200:
+            raise ValueError('invalid url: %d' % r.status)
     else:
         raise ValueError('unsupported scheme: %s' % url.scheme)
 
