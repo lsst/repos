@@ -424,3 +424,6 @@ ci_cpp: https://github.com/lsst/ci_cpp.git
 testdata_latiss_cpp:
   url: https://github.com/lsst/testdata_latiss_cpp.git
   lfs: true
+testdata_ci_imsim:
+  url: https://github.com/lsst/testdata_ci_imsim.git
+  lfs: true
