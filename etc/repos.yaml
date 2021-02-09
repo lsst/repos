@@ -14,7 +14,7 @@
 # source package.  Values may be either a URL (string) or a dict/hash/map with
 # a `url` key and *at least* one `ref` or `lfs`.  The `ref` key generally
 # should be used only if a ref /other than/ `master` is desired.  The `lfs`
-# key is used to identicate that the repo is using git-lfs.
+# key is used to indicate that the repo is using git-lfs.
 #
 # * `url`: string - URL of git repo
 # * `ref`: string - ref (branch | tag) to use by default
@@ -213,6 +213,7 @@ display_ds9: https://github.com/lsst/display_ds9.git
 display_firefly: https://github.com/lsst/display_firefly.git
 display_matplotlib: https://github.com/lsst/display_matplotlib.git
 meas_extensions_psfex: https://github.com/lsst/meas_extensions_psfex.git
+meas_extensions_piff: https://github.com/lsst/meas_extensions_piff.git
 psfex: https://github.com/lsst/psfex.git
 daf_ingest: https://github.com/lsst/daf_ingest.git
 mpi: https://github.com/lsst/mpi.git
