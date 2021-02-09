@@ -10,4 +10,4 @@ repositories when preparing for a build.
 **Note that This repository is governed by a 'self merge' policy, which allows
 for a PR to be merged without review upon a successful CI build.**
 
-See: [adding-a-new-package-to-the-build](https://developer.lsst.io/build-ci/new_package.html#adding-a-new-package-to-the-build)
+See: [adding-a-new-package-to-the-build](https://developer.lsst.io/stack/adding-a-new-package.html)
