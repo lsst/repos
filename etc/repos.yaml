@@ -430,3 +430,4 @@ testdata_ci_imsim:
   url: https://github.com/lsst/testdata_ci_imsim.git
   lfs: true
 dustmaps_cachedata: https://github.com/lsst/dustmaps_cachedata
+faro: https://github.com/lsst/faro
