@@ -431,3 +431,4 @@ testdata_ci_imsim:
   lfs: true
 dustmaps_cachedata: https://github.com/lsst/dustmaps_cachedata
 faro: https://github.com/lsst/faro
+pipelines_lsst_io: https://github.com/lsst/pipelines_lsst_io
