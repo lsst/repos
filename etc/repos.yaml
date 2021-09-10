@@ -149,6 +149,7 @@ eigen: https://github.com/lsst/eigen.git
 healpy: https://github.com/lsst/healpy.git
 mysqlclient: https://github.com/lsst/mysqlclient.git
 utils: https://github.com/lsst/utils.git
+cpputils: https://github.com/lsst/cpputils.git
 afwdata:
   url: https://github.com/lsst/afwdata.git
   lfs: true
