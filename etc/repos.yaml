@@ -439,3 +439,4 @@ meas_extensions_trailedSources: https://github.com/lsst/meas_extensions_trailedS
 meas_extensions_gaap: https://github.com/lsst/meas_extensions_gaap
 daf_butler_migrate: https://github.com/lsst-dm/daf_butler_migrate
 cp_verify: https://github.com/lsst/cp_verify.git
+spectractor: https://github.com/lsst/Spectractor.git
