@@ -443,4 +443,4 @@ daf_butler_migrate: https://github.com/lsst-dm/daf_butler_migrate
 cp_verify: https://github.com/lsst/cp_verify.git
 spectractor: https://github.com/lsst/Spectractor.git
 drp_pipe: https://github.com/lsst/drp_pipe.git
-butleruri: https://github.com/lsst/butlerUri.git
+resources: https://github.com/lsst/resources.git
