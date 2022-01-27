@@ -441,7 +441,9 @@ meas_extensions_trailedSources: https://github.com/lsst/meas_extensions_trailedS
 meas_extensions_gaap: https://github.com/lsst/meas_extensions_gaap
 daf_butler_migrate: https://github.com/lsst-dm/daf_butler_migrate
 cp_verify: https://github.com/lsst/cp_verify.git
-spectractor: https://github.com/lsst/Spectractor.git
+spectractor:
+  url: https://github.com/lsst/Spectractor.git
+  ref: master
 drp_pipe: https://github.com/lsst/drp_pipe.git
 resources: https://github.com/lsst/resources.git
 cell_coadds: https://github.com/lsst-dm/cell_coadds.git
