@@ -444,7 +444,7 @@ cp_verify: https://github.com/lsst/cp_verify.git
 spectractor:
   url: https://github.com/lsst/Spectractor.git
   ref: lsst-dev
-atmospec: https://github.com/lsst-dm/atmospec.git
+atmospec: https://github.com/lsst/atmospec.git
 drp_pipe: https://github.com/lsst/drp_pipe.git
 resources: https://github.com/lsst/resources.git
 cell_coadds: https://github.com/lsst-dm/cell_coadds.git
