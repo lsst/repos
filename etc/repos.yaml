@@ -448,3 +448,4 @@ atmospec: https://github.com/lsst/atmospec.git
 drp_pipe: https://github.com/lsst/drp_pipe.git
 resources: https://github.com/lsst/resources.git
 cell_coadds: https://github.com/lsst-dm/cell_coadds.git
+analysis_drp: https://github.com/lsst/analysis_drp.git
