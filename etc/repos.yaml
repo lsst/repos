@@ -423,6 +423,10 @@ kht:
   ref: lsst-dev
 pipelines_check: https://github.com/lsst/pipelines_check
 ctrl_bps: https://github.com/lsst/ctrl_bps.git
+ctrl_bps_htcondor: https://github.com/lsst/ctrl_bps_htcondor.git
+ctrl_bps_panda: https://github.com/lsst/ctrl_bps_panda.git
+ctrl_bps_pegasus: https://github.com/lsst/ctrl_bps_pegasus.git
+lsst_bps_plugins: https://github.com/lsst/lsst_bps_plugins.git
 ci_cpp_gen2: https://github.com/lsst/ci_cpp_gen2.git
 ci_cpp_gen3: https://github.com/lsst/ci_cpp_gen3.git
 ci_cpp: https://github.com/lsst/ci_cpp.git
