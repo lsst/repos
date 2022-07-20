@@ -459,3 +459,4 @@ rubintv_production: https://github.com/lsst-sitcom/rubintv_production
 summit_utils: https://github.com/lsst-sitcom/summit_utils
 summit_extras: https://github.com/lsst-sitcom/summit_extras
 felis: https://github.com/lsst/felis
+analysis_tools: https://github.com/lsst/analysis_tools
