@@ -461,3 +461,6 @@ summit_extras: https://github.com/lsst-sitcom/summit_extras
 felis: https://github.com/lsst/felis
 analysis_tools: https://github.com/lsst/analysis_tools
 ctrl_bps_parsl: https://github.com/lsst/ctrl_bps_parsl
+gbdes:
+  url: https://github.com/lsst/gbdes
+  ref: tickets/DM-35230
