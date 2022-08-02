@@ -464,3 +464,4 @@ ctrl_bps_parsl: https://github.com/lsst/ctrl_bps_parsl
 gbdes:
   url: https://github.com/lsst/gbdes
   ref: tickets/DM-35230
+drp_tasks: https://github.com/lsst/drp_tasks
