@@ -162,7 +162,7 @@ pipe_tasks: https://github.com/lsst/pipe_tasks.git
 pipe_supertask: https://github.com/lsst-dm/legacy-pipe_supertask.git
 sims_photUtils: https://github.com/lsst/sims_photUtils.git
 skypix: https://github.com/lsst-dm/legacy-skypix.git
-ctrl_execute: https://github.com/lsst-dm/legacy-ctrl_execute.git
+ctrl_execute: https://github.com/lsst/ctrl_execute.git
 luaxmlrpc: https://github.com/lsst-dm/legacy-luaxmlrpc.git
 ap: https://github.com/lsst/ap.git
 sims_coordUtils: https://github.com/lsst/sims_coordUtils.git
