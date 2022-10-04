@@ -463,5 +463,5 @@ analysis_tools: https://github.com/lsst/analysis_tools
 ctrl_bps_parsl: https://github.com/lsst/ctrl_bps_parsl
 gbdes:
   url: https://github.com/lsst/gbdes
-  ref: tickets/DM-35230
+  ref: lsst-dev
 drp_tasks: https://github.com/lsst/drp_tasks
