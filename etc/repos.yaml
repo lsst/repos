@@ -468,3 +468,4 @@ drp_tasks: https://github.com/lsst/drp_tasks
 display_astrowidgets: https://github.com/lsst/display_astrowidgets
 analysis_ap: https://github.com/lsst/analysis_ap
 daf_relation: https://github.com/lsst/daf_relation
+ctrl_platform_s3df: https://github.com/lsst/ctrl_platform_s3df
