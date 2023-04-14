@@ -74,7 +74,7 @@ xrootd:
   url: https://github.com/lsst/xrootd.git
   ref: affinity-flex-hash
 apr_util: https://github.com/lsst-dm/legacy-apr_util.git
-daf_persistence: https://github.com/lsst/daf_persistence.git
+daf_persistence: https://github.com/lsst-dm/legacy-daf_persistence.git
 obs_lsstSim: https://github.com/lsst-dm/legacy-obs_lsstSim.git
 log: https://github.com/lsst/log.git
 base: https://github.com/lsst/base.git
@@ -139,7 +139,7 @@ pex_policy: https://github.com/lsst-dm/legacy-pex_policy.git
 matplotlib: https://github.com/lsst-dm/legacy-matplotlib.git
 pandas: https://github.com/lsst-dm/legacy-pandas.git
 h5py: https://github.com/lsst-dm/legacy-h5py.git
-obs_sdss: https://github.com/lsst/obs_sdss.git
+obs_sdss: https://github.com/lsst-dm/legacy-obs_sdss.git
 activemqcpp: https://github.com/lsst-dm/legacy-activemqcpp.git
 pex_harness: https://github.com/lsst-dm/legacy-pex_harness.git
 git: https://github.com/lsst-dm/legacy-git.git
@@ -222,7 +222,7 @@ daf_ingest: https://github.com/lsst-dm/legacy-daf_ingest.git
 mpi: https://github.com/lsst-dm/legacy-mpi.git
 mpich: https://github.com/lsst-dm/legacy-mpich.git
 mpi4py: https://github.com/lsst-dm/legacy-mpi4py.git
-ctrl_pool: https://github.com/lsst/ctrl_pool.git
+ctrl_pool: https://github.com/lsst-dm/legacy-ctrl_pool.git
 erfa: https://github.com/lsst-dm/legacy-erfa.git
 pal: https://github.com/lsst-dm/legacy-pal.git
 sqlalchemy: https://github.com/lsst-dm/legacy-sqlalchemy.git
@@ -243,7 +243,7 @@ testdata_decam:
   url: https://github.com/lsst/testdata_decam.git
   lfs: true
 validate_base: https://github.com/lsst/validate_base.git
-validate_drp: https://github.com/lsst/validate_drp.git
+validate_drp: https://github.com/lsst-dm/legacy-validate_drp.git
 validation_data_cfht:
   url: https://github.com/lsst/validation_data_cfht.git
   lfs: true
@@ -262,7 +262,7 @@ ci_hsc:
   lfs: true
 lsst_ci: https://github.com/lsst/lsst_ci.git
 lsst_qa: https://github.com/lsst/lsst_qa.git
-pipe_drivers: https://github.com/lsst/pipe_drivers.git
+pipe_drivers: https://github.com/lsst-dm/legacy-pipe_drivers.git
 meas_extensions_simpleShape: https://github.com/lsst/meas_extensions_simpleShape.git
 jointcal_cholmod: https://github.com/lsst/jointcal_cholmod
 jointcal: https://github.com/lsst/jointcal
@@ -313,9 +313,9 @@ python_boto3: https://github.com/lsst/python_boto3
 python_moto: https://github.com/lsst/python_moto
 marshmallow: https://github.com/lsst/marshmallow
 ci_ctio0m9:
-  url: https://github.com/lsst/ci_ctio0m9.git
+  url: https://github.com/lsst-dm/legacy-ci_ctio0m9.git
   lfs: true
-obs_ctio0m9: https://github.com/lsst/obs_ctio0m9.git
+obs_ctio0m9: https://github.com/lsst-dm/legacy-obs_ctio0m9.git
 jemalloc: https://github.com/lsst-dm/legacy-jemalloc.git
 treecorr: https://github.com/lsst-dm/legacy-treecorr.git
 pytest: https://github.com/lsst-dm/legacy-pytest.git
