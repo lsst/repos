@@ -356,6 +356,7 @@ scarlet:
 scarlet_extensions:
   url: https://github.com/lsst/scarlet_extensions.git
   ref: lsst-dev
+scarlet_lite: https://github.com/lsst/scarlet_lite.git
 meas_extensions_scarlet: https://github.com/lsst/meas_extensions_scarlet.git
 ts_opensplice: https://github.com/lsst-ts/ts_opensplice.git
 ts_xml:
