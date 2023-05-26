@@ -471,3 +471,4 @@ analysis_ap: https://github.com/lsst/analysis_ap
 daf_relation: https://github.com/lsst/daf_relation
 ctrl_platform_s3df: https://github.com/lsst/ctrl_platform_s3df
 meas_transiNet: https://github.com/lsst/meas_transiNet
+ci_middleware: https://github.com/lsst/ci_middleware
