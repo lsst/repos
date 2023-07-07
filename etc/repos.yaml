@@ -387,7 +387,7 @@ ap_verify_testdata:
   url: https://github.com/lsst/ap_verify_testdata.git
   lfs: true
 ap_verify_hits2015:
-  url: https://github.com/lsst/ap_verify_hits2015.git
+  url: https://github.com/lsst-dm/legacy-ap_verify_hits2015.git
   lfs: true
 ap_verify_ci_hits2015:
   url: https://github.com/lsst/ap_verify_ci_hits2015.git
