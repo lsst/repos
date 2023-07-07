@@ -395,6 +395,9 @@ ap_verify_ci_hits2015:
 ap_verify_ci_cosmos_pdr2:
   url: https://github.com/lsst/ap_verify_ci_cosmos_pdr2.git
   lfs: true
+ap_verify_ci_dc2:
+  url: https://github.com/lsst/ap_verify_ci_dc2.git
+  lfs: true
 python_py: https://github.com/lsst-dm/legacy-python_py.git
 obs_lsst: https://github.com/lsst/obs_lsst.git
 ctrl_mpexec: https://github.com/lsst/ctrl_mpexec.git
