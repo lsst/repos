@@ -479,3 +479,4 @@ ci_summit: https://github.com/lsst-sitcom/ci_summit
 testdata_ci_summit:
   url: https://github.com/lsst-sitcom/testdata_ci_summit
   lfs: true
+obs_fiberSpectrograph: https://github.com/lsst-dm/obs_fiberSpectrograph
