@@ -481,3 +481,6 @@ testdata_ci_summit:
   url: https://github.com/lsst-sitcom/testdata_ci_summit
   lfs: true
 obs_fiberSpectrograph: https://github.com/lsst-dm/obs_fiberSpectrograph
+metadetect:
+  url: https://github.com/lsst-dm/metadetect
+  ref: tickets/DM-41142
