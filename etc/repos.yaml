@@ -204,6 +204,7 @@ dax_metaserv: https://github.com/lsst-dm/legacy-dax_metaserv.git
 dax_webserv: https://github.com/lsst-dm/legacy-dax_webserv.git
 dax_webserv_client: https://github.com/lsst/dax_webserv_client.git
 dax_webservcommon: https://github.com/lsst-dm/legacy-dax_webservcommon.git
+dax_obscore: https://github.com/lsst-dm/dax_obscore.git
 coord: https://github.com/lsst-dm/legacy-coord.git
 GalSim: https://github.com/lsst-dm/legacy-galsim.git
 galsim: https://github.com/lsst-dm/legacy-galsim.git
