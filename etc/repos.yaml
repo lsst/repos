@@ -483,4 +483,4 @@ testdata_ci_summit:
 obs_fiberSpectrograph: https://github.com/lsst-dm/obs_fiberSpectrograph
 metadetect:
   url: https://github.com/lsst-dm/metadetect
-  ref: tickets/DM-41142
+  ref: lsst-dev
