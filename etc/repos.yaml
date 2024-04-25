@@ -500,3 +500,4 @@ testdata_image_cutouts:
   url: https://github.com/lsst-dm/testdata_image_cutouts
   lfs: true
 sdm_tools: https://github.com/lsst/sdm_tools
+libnanobind: https://github.com/mwittgen/libnanobind.git
