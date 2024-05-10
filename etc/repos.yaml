@@ -486,3 +486,4 @@ metadetect:
   ref: lsst-dev
 obs_rubinGenericCamera: https://github.com/lsst/obs_rubinGenericCamera.git
 ci_ap: https://github.com/lsst/ci_ap
+analysis_ap: https://github.com/lsst/analysis_ap
