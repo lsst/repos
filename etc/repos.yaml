@@ -487,3 +487,4 @@ metadetect:
 obs_rubinGenericCamera: https://github.com/lsst/obs_rubinGenericCamera.git
 ci_ap: https://github.com/lsst/ci_ap
 modelfit_parameters: https://github.com/lsst/modelfit_parameters
+gauss2d: https://github.com/lsst/gauss2d
