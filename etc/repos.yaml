@@ -491,3 +491,4 @@ gauss2d: https://github.com/lsst/gauss2d
 gauss2d_fit: https://github.com/lsst/gauss2d_fit
 multiprofit: https://github.com/lsst/multiprofit
 meas_extensions_multiprofit: https://github.com/lsst/meas_extensions_multiprofit
+rucio_register: https://github.com/lsst/rucio_register
