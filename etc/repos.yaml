@@ -457,7 +457,7 @@ atmospec: https://github.com/lsst/atmospec.git
 drp_pipe: https://github.com/lsst/drp_pipe.git
 resources: https://github.com/lsst/resources.git
 cell_coadds: https://github.com/lsst/cell_coadds.git
-analysis_drp: https://github.com/lsst/analysis_drp.git
+analysis_drp: https://github.com/lsst-dm/legacy-analysis_drp.git
 source_injection: https://github.com/lsst/source_injection.git
 lsst_sitcom: https://github.com/lsst/lsst_sitcom.git
 rubintv_production: https://github.com/lsst-sitcom/rubintv_production
