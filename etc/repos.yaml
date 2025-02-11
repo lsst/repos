@@ -494,3 +494,4 @@ meas_extensions_multiprofit: https://github.com/lsst/meas_extensions_multiprofit
 rucio_register: https://github.com/lsst/rucio_register
 lsst_middleware: https://github.com/lsst/lsst_middleware
 prompt_processing: https://github.com/lsst-dm/prompt_processing
+daf_butler_admin: https://github.com/lsst-dm/daf_butler_admin
