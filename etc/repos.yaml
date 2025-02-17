@@ -495,3 +495,7 @@ rucio_register: https://github.com/lsst/rucio_register
 lsst_middleware: https://github.com/lsst/lsst_middleware
 prompt_processing: https://github.com/lsst-dm/prompt_processing
 daf_butler_admin: https://github.com/lsst-dm/daf_butler_admin
+dax_images_cutout: https://github.com/lsst/dax_images_cutout
+testdata_image_cutouts:
+  url: https://github.com/lsst-dm/testdata_image_cutouts
+  lfs: true
