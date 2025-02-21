@@ -1,8 +1,6 @@
 repos (`repos.yaml`)
 ===
 
-[![Build Status](https://travis-ci.org/lsst/repos.png)](https://travis-ci.org/lsst/repos)
-
 This repo primarily contains the `repos.yaml` configuration file used by
 [`lsst/lsst_build`](https://github.com/lsst/lsst_build) to locate source
 repositories when preparing for a build.
