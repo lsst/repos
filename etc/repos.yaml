@@ -499,3 +499,4 @@ dax_images_cutout: https://github.com/lsst/dax_images_cutout
 testdata_image_cutouts:
   url: https://github.com/lsst-dm/testdata_image_cutouts
   lfs: true
+sdm_tools: https://github.com/lsst/sdm_tools
