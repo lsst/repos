@@ -500,3 +500,8 @@ testdata_image_cutouts:
   url: https://github.com/lsst-dm/testdata_image_cutouts
   lfs: true
 sdm_tools: https://github.com/lsst/sdm_tools
+# External packages for DESC that support eups
+descwl: https://github.com/LSSTDESC/WeakLensingDeblending
+descwl_coadd: https://github.com/LSSTDESC/descwl_coadd
+descwl_shear_sims: https://github.com/LSSTDESC/descwl-shear-sims
+# End of DESC packages
