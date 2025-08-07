@@ -509,5 +509,5 @@ descwl_shear_sims:
   ref: master
 # End of DESC packages
 metadetect:
-  url: https://github.com/lsst-dm/metadetect
+  url: https://github.com/lsst/metadetect
   ref: lsst-dev
