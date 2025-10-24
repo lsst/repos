@@ -514,3 +514,4 @@ metadetect:
   ref: lsst-dev
 lsst_testsonly: https://github.com/lsst/lsst_testsonly
 lsst_extras: https://github.com/lsst/lsst_extras
+dax_ppdbx_gcp: https://github.com/lsst-dm/dax_ppdbx_gcp
