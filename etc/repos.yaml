@@ -501,13 +501,13 @@ sphinxutils: https://github.com/lsst/sphinxutils
 # External packages from DESC as DM forks that support eups
 descwl:
   url: https://github.com/lsst-dm/WeakLensingDeblending
-  ref: master
+  ref: lsst-dev
 descwl_coadd:
   url: https://github.com/lsst-dm/descwl_coadd
-  ref: master
+  ref: lsst-dev
 descwl_shear_sims:
   url: https://github.com/lsst-dm/descwl-shear-sims
-  ref: master
+  ref: lsst-dev
 # End of DESC packages
 metadetect:
   url: https://github.com/lsst/metadetect
