@@ -500,14 +500,14 @@ sdm_tools: https://github.com/lsst/sdm_tools
 sphinxutils: https://github.com/lsst/sphinxutils
 # External packages from DESC as DM forks that support eups
 descwl:
-  url: https://github.com/lsst-dm/WeakLensingDeblending
-  ref: master
+  url: https://github.com/lsst/WeakLensingDeblending
+  ref: lsst-dev
 descwl_coadd:
-  url: https://github.com/lsst-dm/descwl_coadd
-  ref: master
+  url: https://github.com/lsst/descwl_coadd
+  ref: lsst-dev
 descwl_shear_sims:
-  url: https://github.com/lsst-dm/descwl-shear-sims
-  ref: master
+  url: https://github.com/lsst/descwl-shear-sims
+  ref: lsst-dev
 # End of DESC packages
 metadetect:
   url: https://github.com/lsst/metadetect
