@@ -515,3 +515,4 @@ metadetect:
   ref: lsst-dev
 lsst_extras: https://github.com/lsst/lsst_extras
 dax_ppdbx_gcp: https://github.com/lsst-dm/dax_ppdbx_gcp
+meas_photoz_base: https://github.com/lsst/meas_photoz_base
