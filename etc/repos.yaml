@@ -500,6 +500,9 @@ testdata_image_cutouts:
 sdm_tools: https://github.com/lsst/sdm_tools
 sphinxutils: https://github.com/lsst/sphinxutils
 images: https://github.com/lsst/images
+testdata_images:
+  url: https://github.com/lsst/testdata_images
+  lfs: true
 # External packages from DESC as DM forks that support eups
 descwl:
   url: https://github.com/lsst/WeakLensingDeblending
