@@ -396,9 +396,6 @@ ap_verify_ci_hits2015:
 ap_verify_ci_cosmos_pdr2:
   url: https://github.com/lsst/ap_verify_ci_cosmos_pdr2.git
   lfs: true
-ap_verify_ci_dc2:
-  url: https://github.com/lsst/ap_verify_ci_dc2.git
-  lfs: true
 ap_verify_ci_dp1_ecdfs:
   url: https://github.com/lsst/ap_verify_ci_dp1_ecdfs.git
   lfs: true
