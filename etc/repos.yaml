@@ -146,7 +146,6 @@ git: https://github.com/lsst-dm/legacy-git.git
 sims_catUtils: https://github.com/lsst/sims_catUtils.git
 sims_alertsim: https://github.com/lsst-sims/sims_alertsim.git
 sims_GalSimInterface: https://github.com/lsst/sims_GalSimInterface.git
-qserv_testdata: https://github.com/lsst/qserv_testdata
 eigen: https://github.com/lsst/eigen.git
 healpy: https://github.com/lsst-dm/legacy-healpy.git
 mysqlclient: https://github.com/lsst-dm/legacy-mysqlclient.git
@@ -396,8 +395,8 @@ ap_verify_ci_hits2015:
 ap_verify_ci_cosmos_pdr2:
   url: https://github.com/lsst/ap_verify_ci_cosmos_pdr2.git
   lfs: true
-ap_verify_ci_dc2:
-  url: https://github.com/lsst/ap_verify_ci_dc2.git
+ap_verify_ci_dp1_ecdfs:
+  url: https://github.com/lsst/ap_verify_ci_dp1_ecdfs.git
   lfs: true
 python_py: https://github.com/lsst-dm/legacy-python_py.git
 obs_lsst: https://github.com/lsst/obs_lsst.git
