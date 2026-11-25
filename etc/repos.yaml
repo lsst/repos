@@ -460,9 +460,9 @@ cell_coadds: https://github.com/lsst/cell_coadds.git
 analysis_drp: https://github.com/lsst-dm/legacy-analysis_drp.git
 source_injection: https://github.com/lsst/source_injection.git
 lsst_sitcom: https://github.com/lsst/lsst_sitcom.git
-rubintv_production: https://github.com/lsst-sitcom/rubintv_production
-summit_utils: https://github.com/lsst-sitcom/summit_utils
-summit_extras: https://github.com/lsst-sitcom/summit_extras
+rubintv_production: https://github.com/lsst-so/rubintv_production
+summit_utils: https://github.com/lsst-so/summit_utils
+summit_extras: https://github.com/lsst-so/summit_extras
 felis: https://github.com/lsst/felis
 analysis_tools: https://github.com/lsst/analysis_tools
 ctrl_bps_parsl: https://github.com/lsst/ctrl_bps_parsl
@@ -476,9 +476,9 @@ daf_relation: https://github.com/lsst/daf_relation
 ctrl_platform_s3df: https://github.com/lsst/ctrl_platform_s3df
 meas_transiNet: https://github.com/lsst/meas_transiNet
 ci_middleware: https://github.com/lsst/ci_middleware
-ci_summit: https://github.com/lsst-sitcom/ci_summit
+ci_summit: https://github.com/lsst-so/ci_summit
 testdata_ci_summit:
-  url: https://github.com/lsst-sitcom/testdata_ci_summit
+  url: https://github.com/lsst-so/testdata_ci_summit
   lfs: true
 obs_fiberspectrograph: https://github.com/lsst/obs_fiberspectrograph
 obs_rubinGenericCamera: https://github.com/lsst/obs_rubinGenericCamera.git
